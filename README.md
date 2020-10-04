@@ -2889,8 +2889,7 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 
 [<img alt="ybaruchel" src="https://avatars1.githubusercontent.com/u/20744388?v=4&s=117" width="117">](https://github.com/ybaruchel) |[<img alt="alljp" src="https://avatars2.githubusercontent.com/u/9149186?v=4&s=117" width="117">](https://github.com/alljp) |[<img alt="kuwali" src="https://avatars0.githubusercontent.com/u/9569997?v=4&s=117" width="117">](https://github.com/kuwali) |[<img alt="Smith-erin" src="https://avatars1.githubusercontent.com/u/7917754?v=4&s=117" width="117">](https://github.com/Smith-erin) |[<img alt="Reihen-afk" src="https://avatars2.githubusercontent.com/u/68687179?v=4&s=117" width="117">](https://github.com/Reihen-afk) |
 :---: |:---: |:---: |:---: |
-[ybaruchel](https://github.com/ybaruchel) |[alljp](https://github.com/alljp) |[kuwali](https://github.com/kuwali) |[Smith-erin](https://github.com/Smith-erin) |
-[Reihen-afk](https://github.com/Reihen-afk) |
+[ybaruchel](https://github.com/ybaruchel) |[alljp](https://github.com/alljp) |[kuwali](https://github.com/kuwali) |[Smith-erin](https://github.com/Smith-erin) | [Reihen-afk](https://github.com/Reihen-afk) |
 
 
 <br />
